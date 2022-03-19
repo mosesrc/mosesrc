@@ -1,8 +1,8 @@
 - 👋 Hello, my name is Ryan Moses.
 - 👀 I’m interested in software engineering. Hoping to make a career-change by Fall 2022.
-- 🌱 I’m currently learning full stack enginnering @NuCamp and Tech Talent South. I know the basics of HTML/CSS/Javascript and Java.
+- 🌱 Microsoft Software and Systems Academy (MSSA) | Cloud Application Development | NuCamp and Tech Talent South graduate. 
 - 💞️ I’m looking to collaborate on any projects front-end or back-end. 
-- 📫 You can reach me through email: ryanchristophermoses@gmail.com or LinkedIn: www.linkedin.com/in/ryan-c-moses.
+- 📫 You can reach me through email: ryancmoses@outlook.com or LinkedIn: www.linkedin.com/in/ryan-c-moses.
 
 <!---
 mosesrc/mosesrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
