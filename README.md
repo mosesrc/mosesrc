@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Ryan Moses.
-- 👀 I’m interested in software engineering. Hoping to make a career-change by Fall 2022.
+- 👀 Software Engineer, Booz Allen Hamilton
 - 🌱 Microsoft Software and Systems Academy (MSSA) | Cloud Application Development | NuCamp and Tech Talent South graduate. 
 - 💞️ I’m looking to collaborate on any projects front-end or back-end. 
 - 📫 You can reach me through email: ryancmoses@outlook.com or LinkedIn: www.linkedin.com/in/ryan-c-moses.
